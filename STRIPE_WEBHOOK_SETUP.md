@@ -92,8 +92,14 @@ Stripe Dashboard → Developers → Webhooks
 4. Save it securely
 
 **Example:**
-```
-whsec_1234567890abcdefghijklmnopqrstuvwxyz1234567890abcdefghijklmnop
+```<!-- secret removed -->
+Commit changes
+[  ] Commit message (required)
+[  ] Extended description (optional)
+Remove exposed Stripe secret
+
+
+
 ```
 
 ---
@@ -640,3 +646,5 @@ Auth Required: 4000 0025 0000 3155
 **Status:** ✅ Complete Webhook Setup Guide
 
 **Next:** Configure webhook → Test flows → Go live
+
+
